@@ -1,3 +1,9 @@
 [submodule "Gopherus"]
 	path = Gopherus
 	url = https://github.com/tarunkant/Gopherus
+[submodule "EndPoint-Finder"]
+	path = EndPoint-Finder
+	url = https://github.com/tarunkant/EndPoint-Finder
+[submodule "IPLookup"]
+	path = IPLookup
+	url = https://github.com/tarunkant/IPLookup
