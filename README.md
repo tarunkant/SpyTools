@@ -1,6 +1,11 @@
 # SpyTools
 This tool is a collection of tools made by me
 
+## [fuzzphunc](https://github.com/tarunkant/fuzzphunc)
+A lazy fuzzer to fuzz all PHP functions and check if they call execve internally, which can be used to bypass PHP disable_functions via LD_PRELOAD.  
+Also made a [tool](https://github.com/teambi0s/dfunc-bypasser) on top of the same, to let the user know how strong their disable_functions is.  
+A detailed blog can be found [here](https://spyclub.tech/2019/10/27/bypass-disable-functions/)
+
 ## [Gopherus](https://github.com/tarunkant/Gopherus)
 Generate Gopher payload for exploiting SSRF and gain RCE, on SSRF vulnerable sites.
 I've written this tool for MySQL, FastCGI, Memcached, Redis, Zabbix, SMTP servers.  

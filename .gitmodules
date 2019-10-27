@@ -1,4 +1,7 @@
 [submodule "Gopherus"]
+	path = fuzzphunc
+	url = https://github.com/tarunkant/fuzzphunc
+[submodule "Gopherus"]
 	path = Gopherus
 	url = https://github.com/tarunkant/Gopherus
 [submodule "EndPoint-Finder"]
